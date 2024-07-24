@@ -1,5 +1,13 @@
-Outputs:
 
-![download (1)](https://github.com/user-attachments/assets/b119a399-7f08-4029-a3de-5d81ab89f0c3)
-![download](https://github.com/user-attachments/assets/3a9c109e-5110-4470-9320-c7f7215bf908)
-![Screenshot 2024-07-24 204335](https://github.com/user-attachments/assets/e942fdeb-7843-4f0f-8ecc-2def86a94534)
+Applying the styles from this painting
+
+![Screenshot 2024-07-24 194938](https://github.com/user-attachments/assets/2199c011-c777-4ff3-8f41-9cbebb6f3af9)
+
+On this Image
+
+![Screenshot 2024-07-24 194930](https://github.com/user-attachments/assets/11e41d19-c67a-4543-a74b-72e8768effca)
+
+Output
+
+![Screenshot 2024-07-24 194914](https://github.com/user-attachments/assets/449fbd4b-fff6-4683-bdb7-688977525639)
+
